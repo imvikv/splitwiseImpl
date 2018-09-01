@@ -1,4 +1,4 @@
-package vikas.learn.smallProjects;
+package vikas.learn.smallProjects.splitwise;
 
 import java.util.HashMap;
 import java.util.Map;

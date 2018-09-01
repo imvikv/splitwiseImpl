@@ -1,4 +1,4 @@
-package vikas.learn.smallProjects;
+package vikas.learn.smallProjects.splitwise;
 
 public class PublicAPIimpl implements PublicAPI{
 

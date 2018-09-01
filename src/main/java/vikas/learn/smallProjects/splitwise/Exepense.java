@@ -1,9 +1,9 @@
-package vikas.learn.smallProjects;
+package vikas.learn.smallProjects.splitwise;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import vikas.learn.smallProjects.Helper.cacheType;
+import vikas.learn.smallProjects.splitwise.Helper.cacheType;
 
 public class Exepense {
 
